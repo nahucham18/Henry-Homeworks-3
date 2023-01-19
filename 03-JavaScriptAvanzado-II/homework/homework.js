@@ -40,8 +40,8 @@ function cacheFunction(cb) {}
 // Bind
 
 var instructor = {
-   nombre: 'Franco',
-   edad: 25,
+    nombre: 'Franco',
+    edad: 25,
 };
 
 var alumno = {
